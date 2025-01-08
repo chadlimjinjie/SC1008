@@ -2,5 +2,6 @@
     "C_Cpp.default.compilerPath": "c:\\msys64\\ucrt64\\bin\\c++.exe",
     "files.associations": {
         "string": "cpp"
-    }
+    },
+    "C_Cpp.errorSquiggles": "disabled"
 }
